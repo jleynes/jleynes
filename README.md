@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am currrently a Senior Associate at Infosys. Aspiring cloud engineer and private pilot!
+I am currrently a Senior Associate at Infosys. Aspiring cloud engineer and private pilot.
+
+Working on the 'AWS Certified SysOps Administrator - Associate' certification.
 
 ### Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,py,js,git,html,css,react)](https://skillicons.dev)
 
 ### Social
 - [LinkedIn](https://www.linkedin.com/in/jeremiah-leynes/)
