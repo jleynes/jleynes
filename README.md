@@ -1,4 +1,4 @@
-## Hi there! My name is Jeremiah Leynes 👋
+# Hi there! My name is Jeremiah Leynes 👋
 
 <!--
 **jleynes/jleynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me
+## About Me
 I am currrently a Senior Associate at Infosys. Aspiring cloud engineer and private pilot!
 
+### Skills
+
+### Social
+- [LinkedIn](https://www.linkedin.com/in/jeremiah-leynes/)
