@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I am currrently a Senior Associate at Infosys. Aspiring cloud engineer and private pilot.
+Aspiring site reliability engineer and private pilot.
 
 Working on the 'AWS Certified SysOps Administrator - Associate' certification.
 
