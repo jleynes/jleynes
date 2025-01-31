@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-Aspiring site reliability engineer and private pilot.
+Current site reliability engineer and aspiring private pilot.
 
 Working on the 'AWS Certified SysOps Administrator - Associate' certification.
 
